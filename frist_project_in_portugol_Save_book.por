@@ -60,7 +60,7 @@ escreva("1 para sim e 2 para não? \n \n ")
 pare
 
             }
-}
+}//de escolha
 	
 }}
 /* $$$ Portugol Studio $$$ 
@@ -68,7 +68,7 @@ pare
  * Esta seção do arquivo guarda informações do Portugol Studio.
  * Você pode apagá-la se estiver utilizando outro editor.
  * 
- * @POSICAO-CURSOR = 1828; 
+ * @POSICAO-CURSOR = 1811; 
  * @PONTOS-DE-PARADA = ;
  * @SIMBOLOS-INSPECIONADOS = ;
  * @FILTRO-ARVORE-TIPOS-DE-DADO = inteiro, real, logico, cadeia, caracter, vazio;
